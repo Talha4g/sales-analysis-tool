@@ -60,5 +60,5 @@ This tool was developed to streamline sales data management and analysis process
 
 ## License ⚖️
 
-© 2024 PepsiCo, Inc. All Rights Reserved.  
+© 2024 Talah Tanveer. All Rights Reserved.  
 This software is proprietary and confidential.
